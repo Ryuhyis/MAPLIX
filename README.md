@@ -1,5 +1,7 @@
 # 1. 프로젝트 개요
 
+<img src='https://user-images.githubusercontent.com/76957700/191293642-d0933653-bf98-469c-b9c9-bcb7add863d3.png' width=500 height=200/>
+
 
 
 
@@ -17,8 +19,11 @@
 
 
 # 3. 주요 기능
+![image](https://user-images.githubusercontent.com/76957700/191293702-d9e8fa45-906a-490d-8051-97dd435b1000.png)
 
+![image](https://user-images.githubusercontent.com/76957700/191293940-cf1f69a3-286b-4486-966e-7824f008ed12.png)
 
+![image](https://user-images.githubusercontent.com/76957700/191294065-c2ac395f-89f4-45bf-8054-ae6dc6393ea2.png)
 
 # 4. 활용데이터
 - 카카오맵 API
@@ -43,7 +48,9 @@
 
 
 
-#  6. API 명세서
+#  6. API 명세서 (작성중 ,,,)
+
+
 |  |  |  |  |
 |--|--|--|--|
 | 검색 | /search/area |지역명으로 검색|get
@@ -61,3 +68,5 @@
 ||/signup|회원정보 등록|
 |로그인|/login|
 |--|--|
+
+
